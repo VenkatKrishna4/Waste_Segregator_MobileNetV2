@@ -35,3 +35,37 @@ Our app allows users to get an instant classification of a waste item, promoting
 
 📊 **Live Demo**  
 👉 [Try the App Here](https://huggingface.co/spaces/Krishna452002/my-waste-classifier)
+
+# 🛠️ Local Execution
+
+To run this application on your local machine, follow these steps.
+
+---
+
+## 1. Prerequisites
+- Python 3.10 or higher  
+- Git  
+
+---
+
+## 2. Setup
+Clone the repository from GitHub:
+
+```bash
+git clone https://github.com/VenkatKrishna4/Waste_Segregator_MobileNetV2.git
+cd Waste_Segregator_MobileNetV2
+## 3. Install Dependencies
+
+It is highly recommended to use a virtual environment.
+
+```bash
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# On Windows:
+.\venv\Scripts\activate
+
+# On macOS/Linux:
+source venv/bin/activate
+
