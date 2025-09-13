@@ -69,3 +69,16 @@ python -m venv venv
 # On macOS/Linux:
 source venv/bin/activate
 
+Install all the required Python libraries using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+## Run the Application
+
+Once the dependencies are installed, you can start the Gradio app:
+
+```bash
+python app.py
+
+This is will give a url you can run it locally.
+
